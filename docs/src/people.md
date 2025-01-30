@@ -114,16 +114,15 @@ researcher at University of York (CNAP, 2017).
 
 ## Current members
 
-- Laura Caetano Escobar da Silva (Researcher)
 - Sayeny Ávila Gonçalves (Researcher)
 - Polianna da Silva Ferreira (PhD student)
-- Bruna Rodrigues Sussai (PhD student)
-- Eupídio Scopel (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
 - Thais Cardoso de Oliveira (PhD student)
 - João Pedro Gumiero Rodrigues (PhD student)
 - Isabella de Arandas Silva (MsC student)
 - Natália Maria Polidoro (MsC student)
+- Felipe Ferreira Meneses (MsC student)
+- Letícia Melcunas da Rosa (MsC student)
 
 ## Technical Support: 
 
@@ -131,12 +130,14 @@ researcher at University of York (CNAP, 2017).
 
 ## Former members
 
+- Eupídio Scopel (MsC, PhD student)
+- Bruna Rodrigues Sussai (PhD student)
+- Laura Caetano Escobar da Silva (Researcher)
 - Marina Richena (Researcher)
 - Lucimara Lopes da Silva (Researcher)
 - Camilla Henriques Maia de Camargos (PhD, Researcher)
 - Elisa Silva Ferreira (PhD)
 - Sandra Américo do Nascimento (PhD)
-- Eupídio Scopel (MsC)
 - Lidiane de Oliveira Pinto (MsC)
 - Henrique Trevisan (MsC)
 - José Nunes Brandão Júnior (IC)
