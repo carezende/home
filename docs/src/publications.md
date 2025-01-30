@@ -6,6 +6,16 @@
 </center>
 ```
 
+- Jackson, J. C.; Camargos, C, H, M.; Liu, C.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. Antimicrobial activity of thin-film composite membranes functionalized with cellulose nanocrystals and silver nanoparticles via one-pot deposition and layer-by-layer assembly. Environmental Science Water Research & Technology, , v. 10, p. 639, 2024. [[PDF]](./assets/publications/82_Antimicrobial_Jackson_2024.pdf)
+
+- Dos Santos, L. C.; Silva, R. G. B.; Scopel, E.; Hatami, T.; Rezende, C. A.; MARTÍNEZ, J. Concentration of stigmasterol, β-sitosterol and squalene from passion fruit (Passiflora edulis Sims.) by-products by supercritical CO2 adsorption in zeolite 13-X. Journal of Supercritical Fluids, v. 209, p. 106250, 2024.[[PDF]](./assets/publications/84_Stigmatesrol_Luana_2024.pdf)
+
+- Silva, M. N. B.; Scopel, E.; Rezende, C. A. From black liquor to tinted sunscreens: Washing out Kraft lignin unpleasant odor and improving its properties by lignin nanoparticle preparation. Industrial Crops and Products,  v. 218, p. 118910, 2024.[[PDF]](./assets/publications/85_Black_liquor_Mariana_2024.pdf)
+
+- Zambuzi, G. C.; Forster, J. S.; Souza, D. S. S.; Camargos, C. H. M.; Carvalho, A. C. W.; FERREIRA, M. P.; Faria, A. F.; Rezende, C. A.; De Freitas, O.; Francisco, K. R. Pectin/poly(ethylene oxide)/zein/hydroxypropyl methylcellulose acetate succinate-based fibers with nanocellulose for controlled hydroxychloroquine release. Colloids and Surfaces A - Phydicochemical and Engineering Aspects, v. 699, p. 134736, 2024. [[PDF]](./assets/publications/86_Pectin_PEO_Zein_HCQ_Zambuzi_2024.pdf)
+
+- Moreira, B. R.; Scopel, E.; Breitkreitz, M. C.; Rezende, C. A. Simultaneous Optimization of Alkaline and Acid–Alkaline Pretreatments Applied to Rice Straw to Produce Glucose Correlated with Chemical and Morphological Effects. Waste and Biomass Valorization, v. 15, pp. 6813-6829, 2024. [[PDF]](./assets/publications/87_Simultaneous_Rice_Straw_Bruna_2024.pdf)
+
 - Tanganini, I. C.; Camargos, C. H. M.; Jackson, J. C,; Rezende, C.A. ; Ceccato-Antonini, S. R.; Faria, A. F. Self-assembled lignin nanoparticles produced from elephant grass leaves enable selective inactivation of Gram-positive microorganisms. RSC Sustainability, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Tanganini_2023.pdf)
 
 - Yang, L.; Jackson, J.C.; Camargos, C, H, M.; Torres Maia, M.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications. ACS Applied Nano Materials, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Yang_2024.pdf)
