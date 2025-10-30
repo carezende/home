@@ -6,6 +6,16 @@
 </center>
 ```
 
+- Scopel, E.; Pinto, L. O. P.; Rezende, C. A. **Residual lignin affects production and properties of TEMPO-oxidized cellulose nanofibrils from partially delignified sugarcane bagasse.** Cellulose, [10.1007/s10570-025-06785-4](https://doi.org/10.1007/s10570-025-06785-4) [[PDF]](./assets/publications/92_Scopel_Pinto_Residual_lignin_2025.pdf).
+
+- Scopel, E.; Pinto, L. O. P.; Rezende, C. A. **Single-step bleaching versus organosolv-bleaching of sugarcane bagasse: tuning TEMPO-oxidized nanocellulose morphology via delignification strategy.** International Journal of Biological Macromolecules, v. 325, p. 147296, 2025. [[PDF]](./assets/publications/91_Scopel_Pinto_Single_step_2025.pdf)
+
+- Ferreira, P. S.; Scopel, E.; Pinto, L. O. P.; Rezende, C. A. **Hydrophobic and Robust Sugarcane Bagasse Based Biosorbents for Oil Spill Cleanup: Synergy of Hydrothermal Treatment and Cellulose Nanofibril Reinforcement.** ACS Sustainable Resource Management, v. 2, p. 853-863, 2025. [[PDF]](./assets/publications/90_Ferreira_Sugarcane_bagasse_2025.pdf)
+
+- De Araujo, E. J. S.; Scopel, E.; Rezende, C. A.; Monteiro-Filho, J. C.K.; Rodrigues, R. A. P.; Martínez, J. **Supercritical fluid impregnation - An eco-friendly technique for the functionalization of bioaerogel with phenolic compounds from passion fruit waste.** Food Research International, v. 214, p. 116637, 2025. [[PDF]](./assets/publications/89_DeAraujo_Bioaerogel_2025.pdf)
+
+- Camargos, C. H. M.; Yang, L.; Jackson, J. C.; Tanganini, I. C.; Francisco, K. P.; Ceccato Antonini, S. R.; Rezende, C. A.; Faria, A. F. **Lignin and Nanolignin: Next-Generation Sustainable Materials for Water  Treatment.** ACS Applied Bio Materials, v. 8, p. 2632-2673, 2025. [[PDF]](./assets/publications/88_Review_Camargos_Yang_2025.pdf)
+
 - Jackson, J. C.; Camargos, C, H, M.; Liu, C.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. **Antimicrobial activity of thin-film composite membranes functionalized with cellulose nanocrystals and silver nanoparticles via one-pot deposition and layer-by-layer assembly.** Environmental Science Water Research & Technology, , v. 10, p. 639, 2024. [[PDF]](./assets/publications/82_Antimicrobial_Jackson_2024.pdf)
 
 - Dos Santos, L. C.; Silva, R. G. B.; Scopel, E.; Hatami, T.; Rezende, C. A.; Martínez, J. **Concentration of stigmasterol, β-sitosterol and squalene from passion fruit (Passiflora edulis Sims.) by-products by supercritical CO2 adsorption in zeolite 13-X.** Journal of Supercritical Fluids, v. 209, p. 106250, 2024.[[PDF]](./assets/publications/84_Stigmatesrol_Luana_2024.pdf)
@@ -16,15 +26,15 @@
 
 - Moreira, B. R.; Scopel, E.; Breitkreitz, M. C.; Rezende, C. A. **Simultaneous Optimization of Alkaline and Acid–Alkaline Pretreatments Applied to Rice Straw to Produce Glucose Correlated with Chemical and Morphological Effects.** Waste and Biomass Valorization, v. 15, pp. 6813-6829, 2024. [[PDF]](./assets/publications/87_Simultaneous_Rice_Straw_Bruna_2024.pdf)
 
-- Tanganini, I. C.; Camargos, C. H. M.; Jackson, J. C,; Rezende, C.A. ; Ceccato-Antonini, S. R.; Faria, A. F. **Self-assembled lignin nanoparticles produced from elephant grass leaves enable selective inactivation of Gram-positive microorganisms.** RSC Sustainability, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Tanganini_2023.pdf)
+- Tanganini, I. C.; Camargos, C. H. M.; Jackson, J. C,; Rezende, C.A. ; Ceccato-Antonini, S. R.; Faria, A. F. **Self-assembled lignin nanoparticles produced from elephant grass leaves enable selective inactivation of Gram-positive microorganisms.** RSC Sustainability, v. 2, p. 459-474, 2024. [[PDF]](./assets/publications/Tanganini_2023.pdf)
 
-- Yang, L.; Jackson, J.C.; Camargos, C, H, M.; Torres Maia, M.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. **Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications.** ACS Applied Nano Materials, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Yang_2024.pdf)
+- Yang, L.; Jackson, J.C.; Camargos, C, H, M.; Torres Maia, M.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. **Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications.** ACS Applied Nano Materials, v. 7, p. 1477-1490, 2024. [[PDF]](./assets/publications/Yang_2024.pdf)
 
 - Ferreira, J. O.; Zambuzi, G. C.; Camargos, C.H.M.; Carvalho, A. C. W.; Ferreira, M. P.; Rezende, C. A.; De Freitas, O.; Francisco, K. R. **Zein and hydroxypropyl methylcellulose acetate succinate microfibers combined with metronidazole benzoate and/or metronidazole-incorporated cellulose nanofibrils for potential periodontal treatment.** International Journal of Biological Macromolecules, v. 261, p. 129701, 2024. [[PDF]](./assets/publications/Ferreira_2024.pdf) 
 
 - Tramontina, R.; Scopel, E.; Brenelli, L.; Nogueira, G. P.; Franco, T. T.; Rezende, C. A. ; Goldbeck, R.; Squina, F. M. **Applying biorefinery concepts for sugarcane straw upcycling using alkaline and enzymatic treatments to produce value-added compounds and bioenergy.** Biomass & Bioenergy, v. 178, p. 106972, 2023. [[PDF]](./assets/publications/Tramontina_2023.pdf)
 
-- Kane, A. O.; Scopel, E.; Cortez, A. A.; Rossi, B. R.; Pellegrini, V. O. A.; Rezende, C. A.; Polikarpov, I. **Enzyme-assisted production of cellulose nanofibers from bleached and bleached/sulfonated sugarcane bagasse: impact of sulfonation on nanocellulose properties and yields.** Cellulose, v. 1, p. 1, 2023. [[PDF]](./assets/publications/Kane_2023.pdf)
+- Kane, A. O.; Scopel, E.; Cortez, A. A.; Rossi, B. R.; Pellegrini, V. O. A.; Rezende, C. A.; Polikarpov, I. **Enzyme-assisted production of cellulose nanofibers from bleached and bleached/sulfonated sugarcane bagasse: impact of sulfonation on nanocellulose properties and yields.** Cellulose, v. 30, p. 11507-11520, 2023. [[PDF]](./assets/publications/Kane_2023.pdf)
 
 - Dias, A. L. B.; Hatami, T.; Viganó, J.; Araújo, E. J. S.; Mei, L. H. I.; Rezende, C. A.; Martínez, J. **Role of supercritical CO2 impregnation variables on b-carotene loading into corn starch aerogel particles.** Journal of CO2 Utilization, v. 63, p. 102125, 2023. [[PDF]](./assets/publications/72_Dias_Julian_Betacaroteno_Aerogel_2022.pdf)
 
@@ -51,34 +61,16 @@
 - Scopel, E.; Rezende, C. A. **Biorefinery on-demand: Modulating pretreatments to recover lignin, hemicellulose, and extractives as co-products during ethanol production.** Industrial Crops and Products, v. 163, p. 113336, 2021.  [[PDF]](./assets/publications/69b_Eupidio_2021.pdf)
 
 ```@raw html
-<table><tr>
-<td valign=center width=15% align=center><img src=../assets/publications/Capa_Cellulose_Sandra.png></td>
-<td>
-<li> Nascimento, S.A.; Scopel, E.; Rezende, C. A. <b>Salt crystallization pressure as a new method to obtain micro and nanocellulose.</b>
-Cellulose, v. 28, p. 4069-4087, 2021.
-<!--
-<a href=/assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
--->
-</td></tr></table>
+<img src=../assets/publications/Capa_Cellulose_Sandra.png width="25%" style="float:left;border:20px solid white">
 ```
+- Nascimento, S.A.; Scopel, E.; Rezende, C. A. **Salt crystallization pressure as a new method to obtain micro and nanocellulose.** Cellulose, v. 28, p. 4069-4087, 2021. [[PDF]](./assets/publications/48_Elisa_Espuma_2018.pdf)
 
 ```@raw html
-<table><tr>
-<td valign=center width=15% align=center>
-<img src=../assets/publications/capa_green_chemistry_2021.gif>
-</td>
-<td>
-<li> 
-Ferreira, E. S.; Rezende, C. A.; Cranston, E. D.
-<b>
-Fundamentals of cellulose lightweight materials: bio-based assemblies with tailored properties.
-</b>
-Green Chemistry, v. 23, p. 3542-3568, 2021.
-<!--
-<a href=/assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
--->
-</td></tr></table>
+<img src=../assets/publications/capa_green_chemistry_2021.gif width="20%" style="float:right">
 ```
+
+- Ferreira, E. S.; Rezende, C. A.; Cranston, E. D. **Fundamentals of cellulose lightweight materials: bio-based assemblies with tailored properties.** Green Chemistry, v. 23, p. 3542-3568, 2021. [[PDF]](./assets/publications/48_Elisa_Espuma_2018.pdf)
+
 - Noronha, V. T.; Camargos, C. H. M.; Jackson, J. C.; Souza Filho, A. G.; Paula, A. J.; Rezende, C. A.; Faria, A. F. **Physical Membrane-Stress-Mediated Antimicrobial Properties of Cellulose Nanocrystals.** ACS Sustainable Chemistry & Engineering, v. 9, p. 3203-3212, 2021.
 
 - Moreira, B. R.; Breitkreitz, M. C.; Simister, R.; McQueen-Mason, S. J.; Gomez, L. D.; Rezende, C. A. **Improved hydrolysis yields and silica recovery by design of experiments applied to acid-alkali pretreatment in rice husks.** Industrial Crops and Produxts, v. 170, p. 113676, 2021.
@@ -108,14 +100,9 @@ Green Chemistry, v. 23, p. 3542-3568, 2021.
 - Pinto, L. O. ; Bernardes, J. S.; Rezende, C. A. **Low-energy preparation of cellulose nanofibers from sugarcane bagasse by modulating the surface charge density.** Carbohydrate Polymers, v. 218, p. 145-153, 2019. [[PDF]](./assets/publications/50_Lidiane_Nanocellulose_bagasse_2019.pdf)
 
 ```@raw html
-<table><tr>
-<td valign=center width=15% align=center><img src=../assets/page_images/foam.jpg></td>
-<td>
-<li> Ferreira, E. S.; Rezende, C. A. <b>Simple preparation of cellulosic lighweight materials from eucalyptus pulp.</b>
-ACS Sustainable Chemistry & Engineering, v.6, p.14365-14373, 2018. 
-<a href=/assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
-</td></tr></table>
+<img src=../assets/page_images/foam.jpg width="30%" style="float:right">
 ```
+- Ferreira, E. S.; Rezende, C. A. **Simple preparation of cellulosic lighweight materials from eucalyptus pulp.** ACS Sustainable Chemistry & Engineering, v.6, p.14365-14373, 2018. [[PDF]](./assets/publications/48_Elisa_Espuma_2018.pdf)
 
 - Mariño, M. A.; Rezende, C. A.; Tasic, L. **A multistep mild process for preparation of nanocellulose from orange bagasse.** Cellulose, v. 25, p. 5739-5750, 2018. [[PDF]](./assets/publications/47_Mayra_Buba_Orange_2018.pdf)
 

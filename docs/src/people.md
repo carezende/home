@@ -1,5 +1,23 @@
 # People
 
+## Camila Rezende
+ 
+```@raw html
+<table witdh=100%><tr>
+<td width=20% align=center><img src=../assets/page_images/eu_3.jpg><br>
+<a target=newpage href=http://lattes.cnpq.br/3532058764024942>CV Lattes</a>
+</td>
+<td valign=top>
+Bachelor in Chemistry (2002), Master in Physical Chemistry (2003)
+and Doctor in Sciences (2007) from the State University of Campinas
+(UNICAMP). Has held post-doctoral positions at LLB/Saclay, at the
+Institute of Chemistry at UNICAMP, and at the Institute of Physics of
+São Carlos of the University of São Paulo. Worked as a visitant
+researcher at University of York (CNAP, 2017). 
+</td></tr>
+</table>
+```
+
 ```@raw html
 <script type="text/javascript">
 let pics = [
@@ -86,36 +104,127 @@ let pics = [
   { 
     image: 'grupo2023_4.jpg', 
     caption: "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023" 
+  },
+  {
+    image: '20250127_165441.jpg',
+    caption: ""
+  },
+  {
+    image: 'Image1234.jpeg',
+    caption: ""
+  },
+  {
+    image: 'Image1235.jpeg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20230928-WA0018.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231116-WA0010.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231120-WA0016.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231120-WA0017.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231121-WA0011.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231123-WA0032.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231123-WA0058.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231211-WA0011.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20231215-WA0010.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240124-WA0002.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240124-WA0003.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240126-WA0019.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240430-WA0009.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240618-WA0012.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240619-WA0027.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240628-WA0008.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240704-WA0028.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240826-WA0012.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240913-WA0006.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240914-WA0008.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20240914-WA0009.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20241125-WA0000.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20241205-WA0002.jpg',
+    caption: ""
+  },
+  {
+    image: 'IMG-20241209-WA0003.jpg',
+    caption: ""
   }
 ];
 let randomIndex = Math.floor(Math.random() * pics.length);
 let rndpic = pics[randomIndex];
-document.write("<img width=485px src='../assets/page_images/" +rndpic.image+ "'><br>"+rndpic.caption);
+document.write(
+  "<div style='float: right; width: 50%'><img src='../assets/page_images/" +rndpic.image+ "'><br><i>"+rndpic.caption+"</i></div>"
+);
 </script>
 ```
-
-## Camila Rezende
- 
-```@raw html
-<table witdh=100%><tr>
-<td width=20% align=center><img src=../assets/page_images/eu_3.jpg><br>
-<a target=newpage href=http://lattes.cnpq.br/3532058764024942>CV Lattes</a>
-</td>
-<td valign=top>
-Is a bachelor in Chemistry (2002), Master in Physical Chemistry (2003)
-and Doctor in Sciences (2007) from the State University of Campinas
-(UNICAMP). Has held post-doctoral positions at LLB/Saclay, at the
-Institute of Chemistry at UNICAMP, and at the Institute of Physics of
-São Carlos of the University of São Paulo. Worked as a visitant
-researcher at University of York (CNAP, 2017). 
-</td></tr>
-</table>
-```
-
 ## Current members
 
+- Polianna da Silva Ferreira (Researcher)
 - Sayeny Ávila Gonçalves (Researcher)
-- Polianna da Silva Ferreira (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
 - Thais Cardoso de Oliveira (PhD student)
 - João Pedro Gumiero Rodrigues (PhD student)
@@ -130,6 +239,7 @@ researcher at University of York (CNAP, 2017).
 
 ## Former members
 
+- Polianna da Silva Ferreira (PhD student)
 - Eupídio Scopel (MsC, PhD student)
 - Bruna Rodrigues Sussai (PhD student)
 - Laura Caetano Escobar da Silva (Researcher)
